@@ -1,4 +1,4 @@
-module learn-golang-api
+module santrikoding/backend-api
 
 go 1.24.5
 
